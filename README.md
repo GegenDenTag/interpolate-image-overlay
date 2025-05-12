@@ -1,6 +1,8 @@
 # interpolate-image-overlay
 personal script 2024-04-23
+
 Automatic1111
+
 The script mixes the output of img2img with the original input image in alpha strength. This allows the script to provide 
 a second image or a texture file for an effect (e.g. watercolor, fog, spotlight, sun rays, etc.) via the upload dialog 
 in the script area, to then add this effect to the original image (img2img).
